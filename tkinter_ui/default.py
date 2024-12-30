@@ -5,6 +5,7 @@ from tkinter import ttk
 
 import utils.constants as constants
 from utils.config import config
+from utils.tools import resource_path
 
 
 class DefaultUI:
@@ -91,6 +92,15 @@ class DefaultUI:
             command=self.update_open_service
         )
         self.open_service_checkbutton.pack(side=tk.LEFT, padx=4, pady=8)
+
+        self.app_port_label = tk.Label(
+            frame_default_open_update_column2, text="端口:", width=3
+        )
+        self.app_port_label.pack(side=tk.LEFT, padx=4, pady=8)
+        self.app_port_entry = tk.Entry(frame_default_open_update_column2, width=8)
+        self.app_port_entry.pack(side=tk.LEFT, padx=4, pady=8)
+        self.app_port_entry.insert(0, config.app_port)
+        self.app_port_entry.bind("<KeyRelease>", self.update_app_port)
 
         frame_default_open_cache = tk.Frame(root)
         frame_default_open_cache.pack(fill=tk.X)
@@ -369,6 +379,9 @@ class DefaultUI:
     def update_open_service(self):
         config.set("Settings", "open_service", str(self.open_update_var.get()))
 
+    def update_app_port(self, event):
+        config.set("Settings", "app_port", self.app_port_entry.get())
+
     def update_open_use_old_result(self):
         config.set(
             "Settings", "open_use_old_result", str(self.open_use_old_result_var.get())
@@ -438,22 +451,26 @@ class DefaultUI:
         config.set("Settings", "ipv_type", self.ipv_type_combo.get())
 
     def edit_whitelist_file(self):
-        if os.path.exists(constants.whitelist_path):
-            os.system(f'notepad.exe {constants.whitelist_path}')
+        path = resource_path(constants.whitelist_path)
+        if os.path.exists(path):
+            os.system(f'notepad.exe {path}')
 
     def edit_blacklist_file(self):
-        if os.path.exists(constants.blacklist_path):
-            os.system(f'notepad.exe {constants.blacklist_path}')
+        path = resource_path(constants.blacklist_path)
+        if os.path.exists(path):
+            os.system(f'notepad.exe {path}')
 
     def change_entry_state(self, state):
         for entry in [
             "open_update_checkbutton",
             "open_service_checkbutton",
+            "app_port_entry",
             "open_use_old_result_checkbutton",
             "open_use_cache_checkbutton",
             "open_request_checkbutton",
             "open_driver_checkbutton",
             "open_proxy_checkbutton",
+            "request_timeout_entry",
             "source_file_entry",
             "source_file_button",
             "final_file_entry",

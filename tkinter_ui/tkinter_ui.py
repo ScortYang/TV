@@ -20,6 +20,7 @@ from hotel import HotelUI
 from subscribe import SubscribeUI
 from online_search import OnlineSearchUI
 import json
+from utils.speed import check_ffmpeg_installed_status
 
 
 class TkinterUI:
@@ -61,6 +62,7 @@ class TkinterUI:
             "open_service": self.default_ui.open_service_var.get(),
             "open_sort": self.speed_ui.open_sort_var.get(),
             "open_subscribe": self.subscribe_ui.open_subscribe_var.get(),
+            "open_supply": self.prefer_ui.open_supply_var.get(),
             "open_update": self.default_ui.open_update_var.get(),
             "open_update_time": self.default_ui.open_update_time_var.get(),
             "open_url_info": self.default_ui.open_url_info_var.get(),
@@ -116,6 +118,11 @@ class TkinterUI:
             self.progress_label.pack_forget()
 
     def on_run_update(self):
+        if not self.update_running and config.open_filter_resolution and not check_ffmpeg_installed_status():
+            if messagebox.askyesno("提示",
+                                   "使用分辨率相关功能需要安装FFmpeg，为了实现更佳的观看体验，\n是否前往官网下载？"):
+                return webbrowser.open("https://ffmpeg.org")
+
         loop = asyncio.new_event_loop()
 
         def run_loop():

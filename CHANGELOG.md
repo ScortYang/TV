@@ -1,8 +1,86 @@
 # 更新日志（Changelog）
 
+## v1.5.8
+
+### 2024/12/30
+
+- ✨ 推荐本次更新，实测可实现秒播级的观看体验，不可播放的情况明显减少
+- ✨ 支持获取分辨率，GUI用户需要手动安装FFmpeg（#608）
+- ✨ 支持text/plain结果输出，解决部分播放器显示问题（#736）
+- ✨ 增加默认订阅源
+- 🐛 修复IPv6接口测速输出的速率结果异常（#739）
+- 🐛 修复GUI出现的错误输出（#743）
+- 🐛 修复分辨率数值比较异常（#744）
+- 🐛 修复台标无法显示（#762）
+- 🪄 优化接口测速方法，兼容多种m3u8接口类型
+- 🪄 调整Github工作流执行结果IPv类型为自动，即根据网络环境自动选择IPv4或IPv6，若有需要可手动设置ipv_type_prefer调整输出偏好
+- 🪄 更新部分配置参数说明
+
+<details>
+  <summary>English</summary>
+
+- ✨ Recommended update, tested to achieve instant playback experience, significantly reducing playback failures
+- ✨ Support for obtaining resolution, GUI users need to manually install FFmpeg (#608)
+- ✨ Support for text/plain result output, solving display issues in some players (#736)
+- ✨ Added default subscription sources
+- 🐛 Fixed abnormal speed results for IPv6 interface speed tests (#739)
+- 🐛 Fixed error output in GUI (#743)
+- 🐛 Fixed abnormal resolution value comparison (#744)
+- 🐛 Fixed logo display issue (#762)
+- 🪄 Optimized interface speed test method, compatible with various m3u8 interface types
+- 🪄 Adjusted GitHub workflow execution result IPv type to automatic, selecting IPv4 or IPv6 based on network
+  environment, with manual setting option for ipv_type_prefer
+- 🪄 Updated some configuration parameter descriptions
+
+</details>
+
+## v1.5.7
+
+### 2024/12/23
+
+- ❤️ 推荐关注微信公众号（Govin），订阅更新通知与使用技巧等文章推送，还可进行答疑和交流讨论
+- ⚠️ 本次更新涉及配置变更，以最新 `config/config.ini` 为准，工作流用户需复制最新配置至`user_config.ini`
+  ，Docker用户需清除主机挂载的旧配置
+- ✨ 新增补偿机制模式（`open_supply`），用于控制是否开启补偿机制，当满足条件的结果数量不足时，将可能可用的接口补充到结果中
+- ✨ 新增支持通过配置修改服务端口（`app_port`）
+- ✨ 新增ghgo.xyz CDN代理加速
+- ✨ config.ini配置文件新增注释说明（#704）
+- ✨ 更新酒店源与组播源离线数据
+- 🐛 修复IPv6接口测速异常低速率问题（#697、#713）
+- 🐛 修复Sort接口可能出现的超时等待问题（#705、#719）
+- 🐛 修复历史白名单结果导致移除白名单无效问题（#713）
+- 🐛 修复订阅源白名单无效问题（#724）
+- 🪄 优化更新时间url使用首个频道接口地址
+- 🪄 优化接口来源偏好可设置为空，可实现全部来源按速率排序输出结果
+
+<details>
+  <summary>English</summary>
+
+- ❤️ Recommended to follow the WeChat public account (Govin) to subscribe to update notifications and articles on usage
+  tips, as well as for Q&A and discussion.
+- ⚠️ This update involves configuration changes. Refer to the latest `config/config.ini`. Workflow users need to copy
+  the latest configuration to `user_config.ini`, and Docker users need to clear the old configuration mounted on the
+  host.
+- ✨ Added compensation mechanism mode (`open_supply`) to control whether to enable the compensation mechanism. When the
+  number of results meeting the conditions is insufficient, potentially available interfaces will be supplemented into
+  the results.
+- ✨ Added support for modifying the server port through configuration (`app_port`).
+- ✨ Added ghgo.xyz CDN proxy acceleration.
+- ✨ Added comments to the config.ini configuration file (#704).
+- ✨ Updated offline data for hotel sources and multicast sources.
+- 🐛 Fixed the issue of abnormally low speed rates for IPv6 interface speed tests (#697, #713).
+- 🐛 Fixed the issue of possible timeout waiting in the Sort interface (#705, #719).
+- 🐛 Fixed the issue where historical whitelist results caused the removal of the whitelist to be ineffective (#713).
+- 🐛 Fixed the issue where the subscription source whitelist was ineffective (#724).
+- 🪄 Optimized the update time URL to use the first channel interface address.
+- 🪄 Optimized the interface source preference to be set to empty, allowing all sources to be sorted by speed for output
+  results.
+
+</details>
+
 ## v1.5.6
 
-### 2024/12/16
+### 2024/12/17
 
 - ❤️ 推荐关注微信公众号（Govin），订阅更新通知与使用技巧等文章推送，还可进行答疑和交流讨论
 - ⚠️ 本次更新涉及配置变更，以最新 `config/config.ini` 为准，工作流用户需复制最新配置至`user_config.ini`
