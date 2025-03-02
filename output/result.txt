@@ -1,25 +1,25 @@
 🕘️更新时间,#genre#
-2025-03-02 06:27:11,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源-1920x1080
+2025-03-02 18:15:44,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源-1920x1080
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源-1920x1080
-CCTV-2,http://livetv.wqwqwq.sbs/itv/1000000001000023315.m3u8?cdn=ystenlive$订阅源-1920x1080
-CCTV-3,http://livetv.wqwqwq.sbs/itv/1000000005000265003.m3u8?cdn=ystenlive$订阅源-1920x1080
-CCTV-4,http://livetv.wqwqwq.sbs/itv/1000000005000265004.m3u8?cdn=ystenlive$订阅源-1920x1080
-CCTV-5,http://livetv.wqwqwq.sbs/itv/1000000005000265005.m3u8?cdn=ystenlive$订阅源-1920x1080
-CCTV-5+,http://livetv.wqwqwq.sbs/itv/6000000001000015875.m3u8?cdn=wasusyt$订阅源-1920x1080
-CCTV-6,http://livetv.wqwqwq.sbs/itv/1000000001000001737.m3u8?cdn=ystenlive$订阅源-1920x1080
-CCTV-7,http://livetv.wqwqwq.sbs/itv/1000000001000024341.m3u8?cdn=ystenlive$订阅源-1920x1080
-CCTV-8,http://livetv.wqwqwq.sbs/itv/6000000001000001070.m3u8?cdn=wasusyt$订阅源-1920x1080
-CCTV-9,http://livetv.wqwqwq.sbs/itv/1000000001000014583.m3u8?cdn=ystenlive$订阅源-1920x1080
-CCTV-10,http://livetv.wqwqwq.sbs/itv/1000000001000023734.m3u8?cdn=ystenlive$订阅源-1920x1080
-CCTV-11,http://livetv.wqwqwq.sbs/itv/1000000005000265011.m3u8?cdn=ystenlive$订阅源-1920x1080
-CCTV-12,http://livetv.wqwqwq.sbs/itv/1000000001000032494.m3u8?cdn=ystenlive$订阅源-1920x1080
+CCTV-2,https://www.freetv.top/migu/631780532.m3u8?migutoken=6c76ed4394c8c43f88aac34dab811cbf99f0534dd0deb2fa6a2515925b7e3485de13876836fa6823e42f5c7304cfe44911416d7ad0312b8fbf012adfe4f735fd37abdd31a3b3e6f645512cd090$订阅源-1920x1080
+CCTV-3,https://www.freetv.top/migu/624878271.m3u8?migutoken=35ee1318e92e1d47aa4e9ad2f98c1ca771a9ca57db36d1e18c3a4fabedd68b40ee0c4c4724347e54708380241e58d714dde21dcbd0f2eff4373c9d9f7f1508646f22febd08f5c3a8c755f6ef1e$订阅源-1920x1080
+CCTV-4,http://39.170.52.236:808/hls/4/index.m3u8$订阅源-1920x1080
+CCTV-5,http://39.170.52.236:808/hls/5/index.m3u8$订阅源-1920x1080
+CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=4f1a9fcd002d1813b494eddd61778e103dbe130f4abb409e9032be9917dfd1871014d622a729fd6ffc4e1c376330de3f42c3691e2b49d12f7eb77bdf1887e67a9e6ad438d269a4408f0b3c6bcb$订阅源-1920x1080
+CCTV-6,https://www.freetv.top/migu/624878396.m3u8?migutoken=cf8aa2ae484a26a284790c996f43ed3d911dfba0ee5662ecc4c55b38098e9337cf10f0ac3894a85627dcfe0492addd1d07ff6e3aa6f467d0a2f30f53c4d0ce2a4686f74d46c050c0e010f46a65$订阅源-1920x1080
+CCTV-7,https://www.freetv.top/migu/673168121.m3u8?migutoken=3253222269368c440aa1d23dba86c186a7b73abdea3890faf72e3d720844f8f1d3adc2b18ed047dbb3eff1a6c5d9379fad37d1f8a380d0e7c69e9ad6eb41709cf92077125fc0bded4cfd47808b$订阅源-1920x1080
+CCTV-8,https://www.freetv.top/migu/624878356.m3u8?migutoken=fd27f61c7f7fe2cf7f724a0bb82a08a3e2d5c36e0ed91d4004eb9038918cf4e51f974f3288e5832b1e8b7907de8d1a37f400d9f454f47bb3fd4735c99fd4a541c6eea353c7d6d03cf5ec5b7533$订阅源-1920x1080
+CCTV-9,https://www.freetv.top/migu/673168140.m3u8?migutoken=70f89f57af3b961c4266d3657e4e2bed7511bb081c6f118dec56c9cb101146db53ddfdbba9b52724c71e79f51bfe5806d61d41f8429293537387c552fed0c21e259ae489a2a54a8accda0abf71$订阅源-1920x1080
+CCTV-10,http://39.170.52.236:808/hls/10/index.m3u8$订阅源-1920x1080
+CCTV-11,https://www.freetv.top/migu/667987558.m3u8?migutoken=dbfc420c420e30228efe23e562fc0ee670a65ddac45cc355845b855f27a4e5ba04a7e18d73eb58be7427a4bed6ef9056659fbcf58979a56ccbe84899cfdf0644fc1215333ca6210639196795f2$订阅源-1920x1080
+CCTV-12,https://www.freetv.top/migu/673168185.m3u8?migutoken=dd69c6da4ca875bfa3b2c373a896be579823c971f68c14aae1624ddc25a0b5bbf046484c0809601c25014abc49cfbf2f72bf0c59ab5ff81f304a187856c7a50e4d2b12f9eaf5d5627b50786e85$订阅源-1920x1080
 CCTV-13,http://39.170.52.236:808/hls/13/index.m3u8$订阅源-1920x1080
-CCTV-14,http://livetv.wqwqwq.sbs/itv/1000000005000265013.m3u8?cdn=ystenlive$订阅源-1920x1080
-CCTV-15,http://livetv.wqwqwq.sbs/itv/1000000005000265014.m3u8?cdn=ystenlive$订阅源-1920x1080
+CCTV-14,https://www.freetv.top/migu/624878440.m3u8?migutoken=b1f130236741614ca1eaccd92217632731b3c3c0d831bbb7a25004e2ed6d8570b8de27efe2abc85d27a26651d421475c7d50ad99aa55c4aaf55222863fd9d0c80e6d6cf7b8ed52ec2e6cebdd95$订阅源-1920x1080
+CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=50dc3ccc2d27d7a93259df8360e0b3d4440519a8a4f9c636cce2d1bab0ddd72f5ecd496a69a4292eca1015e4c44727f9a6ee935a536f0720d3b21bee7f1c53aab112b3ab2e6aeb9982837ab99a$订阅源-1920x1080
 CCTV-16,https://yunmei.tv/main/cctv-16.m3u8$订阅源-1920x1080
-CCTV-17,http://livetv.wqwqwq.sbs/itv/1000000005000265015.m3u8?cdn=ystenlive$订阅源-1920x1080
+CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=dff047a9026f526223c0ed1adbfabbe258e37787a9dbf6c13ddfa3dfc5be6fc055e4ec23f97b75ae545c0a460100ac52ba7ebcfbc7dc5b37f2c7cd2138c72751b2aa7e843867bd1e89f39c0060$订阅源-1920x1080
 CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001$订阅源-1280x720
 
 💰央视付费频道,#genre#
@@ -71,9 +71,6 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 山东体育,http://livealone302.iqilu.com/iqilu/typd.m3u8$订阅源
 山东文旅,http://139.129.231.228:3529/rtp/239.21.1.176:5002$山东电信组播源
 山东综艺,http://livealone302.iqilu.com/iqilu/zypd.m3u8$订阅源
-临沂公共,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8$订阅源-1920x1080
-临沂农科,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8$订阅源-1920x1080
-临沂新闻综合,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8$订阅源-1920x1080
 淄博生活,http://139.129.231.228:3529/rtp/239.21.1.109:5002$山东电信组播源
 淄博都市,http://139.129.231.228:3529/rtp/239.21.1.83:5002$山东电信组播源
 
@@ -98,44 +95,54 @@ Viutv,http://php.jdshipin.com/TVOD/iptv.php?id=viutv$订阅源-1920x1080
 🎬电影频道,#genre#
 CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy$订阅源-1920x1080
 CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy$订阅源-1920x1080
+黑莓电影,http://3501776.xyz:35455/itv/1000000004000019624.m3u8?cdn=ystenlive$订阅源-1920x1080
 纬来电影,http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8$订阅源-1920x1080
-经典电影,http://120.238.94.10:9901/tsfile/live/1040_1.m3u8$订阅源-1920x1080
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV$订阅源-720x576
 东森电影,https://bsex.serv00.net/Smart.php?id=ettvmovie$订阅源
 东森洋片,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f$订阅源-1920x1080
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
 
 🏀体育频道,#genre#
-CCTV-5,http://livetv.wqwqwq.sbs/itv/1000000005000265005.m3u8?cdn=ystenlive$订阅源-1920x1080
-CCTV-5+,http://livetv.wqwqwq.sbs/itv/6000000001000015875.m3u8?cdn=wasusyt$订阅源-1920x1080
+CCTV-5,http://39.170.52.236:808/hls/5/index.m3u8$订阅源-1920x1080
+CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=4f1a9fcd002d1813b494eddd61778e103dbe130f4abb409e9032be9917dfd1871014d622a729fd6ffc4e1c376330de3f42c3691e2b49d12f7eb77bdf1887e67a9e6ad438d269a4408f0b3c6bcb$订阅源-1920x1080
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty$订阅源-1920x1080
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
-五星体育,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3$订阅源
+五星体育,http://36.105.100.208:35455/itv/5000000010000017540.m3u8?cdn=bestzb$订阅源
 体育赛事,http://139.129.231.228:3529/rtp/239.21.2.44:5002$山东电信组播源
 劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=05144ee4526abc2f6a8d44a41f9e078ef10c1a9f8930d51d7f453315d3577b613eac76898b1e0965789f7010cd3f8a1bca3167ef6e625cb77fc2c575eec35c8d07aaff61dc4b79f75fc67ef667$订阅源-1920x1080
+超级体育,http://3501776.xyz:35455/itv/1000000001000009601.m3u8?cdn=ystenlive$订阅源-1920x1080
 广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai$订阅源-1920x1080
-辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8$订阅源-1920x1080
 山东体育,http://livealone302.iqilu.com/iqilu/typd.m3u8$订阅源
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv$订阅源-1920x1080
-睛彩篮球,http://lt.hxtre.com:35455/itv/1000000006000270002.m3u8?cdn=ystenlive$订阅源-1920x1080
+睛彩篮球,http://lu.wqwqwq.sbs/itv/1000000006000270002.m3u8?cdn=ystenlive$订阅源-1920x1080
+睛彩广场舞,http://3501776.xyz:35455/itv/2000000003000000062.m3u8?cdn=hnbblive$订阅源-1920x1080
 魅力足球,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031207$订阅源-1920x1080
-天元围棋,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_TIANYUANWQ/G_TIANYUANWQ.m3u8$订阅源-720x576
 快乐垂钓,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031206$订阅源-1920x1080
 
 🪁动画频道,#genre#
 动漫秀场,http://php.jdshipin.com:8880/bst.php?id=dmxc8m/8000000$订阅源-1920x1080
 CN卡通,http://50.7.234.10:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e$订阅源-1920x1080
 优漫卡通,https://www.freetv.top/migu/626064703.m3u8?migutoken=deac6c5275081b54ad412a195e499b7c0cb8f04446b6c80aaa9d3eb1063d620261c68202d59aea05060007b58a62d5d208f16379d861d6f1627c10c9dd894f0bf7e3ca97b04696255e193e871c$订阅源-1920x1080
-金鹰卡通,http://110.53.52.63:8888/newlive/live/hls/49/live.m3u8$订阅源-1920x1080
+金鹰卡通,http://220.170.241.204:9901/tsfile/live/1005_1.m3u8$订阅源-720x576
+黑莓动画,http://3501776.xyz:35455/itv/1000000004000021734.m3u8?cdn=ystenlive$订阅源-1920x1080
 24H国漫热播,https://lunbo.freetv.top/yy/1353937086$订阅源-800x600
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源-1920x1080
+七龙珠,http://1.94.31.214:35455/huya/11601966$订阅源-960x720
+海绵宝宝,http://1.94.31.214:35455/huya/11352919$订阅源-960x720
+中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8$订阅源-1280x720
+蜡笔小新,http://1.94.31.214:35455/huya/11352970$订阅源-960x720
 
 🎵音乐频道,#genre#
-CCTV-15,http://livetv.wqwqwq.sbs/itv/1000000005000265014.m3u8?cdn=ystenlive$订阅源-1920x1080
+CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=50dc3ccc2d27d7a93259df8360e0b3d4440519a8a4f9c636cce2d1bab0ddd72f5ecd496a69a4292eca1015e4c44727f9a6ee935a536f0720d3b21bee7f1c53aab112b3ab2e6aeb9982837ab99a$订阅源-1920x1080
 音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8$订阅源
 
 🏛经典剧场,#genre#
 笑傲江湖,https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8$订阅源
+天龙八部,http://1.94.31.214:35455/huya/23903123$订阅源-960x720
+鹿鼎记,http://1.94.31.214:35455/yy/28265277$订阅源-960x720
 仙剑奇侠传,https://lunbo.freetv.top/yy/1382749903$订阅源-800x600
+西游记,http://1.94.31.214:35455/huya/26355861$订阅源-960x720
 三国演义,https://lunbo.freetv.top/yy/1354930932$订阅源-800x600
 新白娘子传奇,https://lunbo.freetv.top/yy/1354930969$订阅源-800x600
+封神榜,http://1.94.31.214:35455/huya/29465849$订阅源-960x720
+射雕英雄传,http://1.94.31.214:35455/huya/23824164$订阅源-960x720
